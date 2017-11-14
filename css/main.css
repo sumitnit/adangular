@@ -1,0 +1,22 @@
+
+body{
+	background-image: url('../images/got.jpg');
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+#div1{
+    background-color: lightgrey;
+    width: 70%;
+    border: 5px solid green;
+    margin:0 auto;
+    border-radius: 25px;
+}
+
+#div2{
+	border: 3px solid green;
+    margin:0 auto;
+    border-radius: 2px;
+    padding: 1px 1px 1px 1px;
+    ;
+}
